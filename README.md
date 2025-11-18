@@ -2,11 +2,11 @@
 <h1 align="center" style="font-family:mono";>Hi 👋, I'm Abhijat</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijat-abhijat&label=Profile%20views&color=0e75b6&style=flat" alt="abhijat-abhijat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijat-tech&label=Profile%20views&color=0e75b6&style=flat" alt="abhijat-tech" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://abhijat-abhijat.github.io/Portfolio/) -->
 
-- 📫 How to reach me **abhijat789@gmail.com**
+- 📫 How to reach me **abhijat.tech@gmail.com**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x89GUD99_kCRmZrHurQBCOxIDSCu1LkZ/view?usp=sharing) -->
 
@@ -24,7 +24,7 @@
   &nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -40,22 +40,22 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>&nbsp;&nbsp; 
-</p>
+</p> -->
 
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/abhijat789C"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhijat789C" /></a>
 <a href="https://ko-fi.com/abhijat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/abhijat" /></a>
-</p>
+</p> -->
 
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-abhijat&" alt="abhijat-abhijat" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijat-abhijat&show_icons=true&locale=en" alt="abhijat-abhijat" /></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhijat-abhijat&column=3&margin-w=15&margin-h=15" alt="abhijat-abhijat" /></p>
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-abhijat&show_icons=true&locale=en&layout=compact" alt="abhijat-abhijat" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-tech&" alt="abhijat-tech" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijat-tech&show_icons=true&locale=en" alt="abhijat-tech" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhijat-tech&column=3&margin-w=15&margin-h=15" alt="abhijat-tech" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&show_icons=true&locale=en&layout=compact" alt="abhijat-tech" /></p>
 
 <!--
 **abhijat-tech/abhijat-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
