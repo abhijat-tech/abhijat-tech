@@ -32,8 +32,9 @@ I'm a passionate **Software Developer** who loves building modern applications, 
 </table>
 
 <p align="center">
-  <img height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
