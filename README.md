@@ -10,6 +10,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-tech&" alt="abhijat-tech" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijat-tech&show_icons=true&locale=en" alt="abhijat-tech" /></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhijat-tech&column=3&margin-w=15&margin-h=15" alt="abhijat-tech" /></p>
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&show_icons=true&locale=en&layout=compact" alt="abhijat-tech" /></p>
 
