@@ -39,11 +39,4 @@ I'm a passionate **Software Developer** who loves building modern applications, 
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:abhijat.tech@gmail.com"><img src="https://img.shields.io/badge/Email-1e90ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ⭐ If you like my work, feel free to star my repositories!
