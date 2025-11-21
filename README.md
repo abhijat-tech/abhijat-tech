@@ -20,17 +20,21 @@ I'm a passionate **Software Developer** who loves building modern applications, 
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-tech&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijat-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-tech&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijat-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
