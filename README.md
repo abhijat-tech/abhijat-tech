@@ -14,17 +14,15 @@ I'm a passionate **Software Developer** who loves building modern applications, 
 <table align="center">
   <tr>
     <td>
-
-<ul>
-<li>✉️ Reach me at: <b>abhijat.tech@gmail.com</b></li>
-<li>💻 I enjoy working with <b>Java</b>, <b>Spring Boot</b>, <b>React Native</b>, and <b>Flutter</b></li>
-<li>🌱 Currently leveling up in <b>System Design</b>, <b>Backend Architecture</b>, and <b>Cloud Services</b></li>
-<li>🚀 Focused on becoming a <b>top-tier developer</b></li>
-</ul>
-
+      <ul>
+        <li>✉️ Reach me at: <b>abhijat.tech@gmail.com</b></li>
+        <li>💻 I enjoy working with <b>Java</b>, <b>Spring Boot</b>, <b>React Native</b>, and <b>Flutter</b></li>
+        <li>🌱 Currently leveling up in <b>System Design</b>, <b>Backend Architecture</b>, and <b>Cloud Services</b></li>
+        <li>🚀 Focused on becoming a <b>top-tier developer</b></li>
+      </ul>
     </td>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&theme=tokyonight&hide_border=true" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -36,10 +34,10 @@ I'm a passionate **Software Developer** who loves building modern applications, 
 <table align="center">
   <tr>
     <td>
-      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-tech&theme=tokyonight&hide_border=true"/>
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijat-tech&hide_border=true"/>
     </td>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijat-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijat-tech&show_icons=true&hide_border=true"/>
     </td>
   </tr>
 </table>
