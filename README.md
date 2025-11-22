@@ -11,10 +11,21 @@
 ### 🚀 About Me
 I'm a passionate **Software Developer** who loves building modern applications, exploring backend systems, and continuously learning new technologies.
 
-- ✉️ Reach me at: **abhijat.tech@gmail.com**  
+
+
+<table align="center">
+  <tr>
+    <td>
+      - ✉️ Reach me at: **abhijat.tech@gmail.com**  
 - 💻 I enjoy working with **Java**, **Spring Boot**, **React Native**, and **Flutter**
 - 🌱 Currently leveling up in **System Design**, **Backend Architecture**, and **Cloud Services**
 - 🚀 Focused on becoming a top-tier developer
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,9 +42,6 @@ I'm a passionate **Software Developer** who loves building modern applications, 
   </tr>
 </table>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijat-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 
